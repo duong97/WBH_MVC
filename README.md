@@ -1,5 +1,5 @@
 # WBH_MVC
-[Update 12-05-2018] This project was written when i was 2nd year studen, so it was very bad. Maybe you can't understand my code, so dont read it.<br>
+<b>[Update 12-05-2018] This project was written when i was 2nd year studen, so it was very bad. Maybe you can't understand my code, so dont read it.</b><br>
 Web bán hàng viết bằng PHP MVC<br>
 Chức năng:<br>
 - Giỏ hàng: tự động cập nhật và đồng bộ khi người dùng đăng nhập (những sản phẩm nào chưa có sẽ được thêm vào giỏ, có rồi thì bỏ qua).
